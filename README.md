@@ -1,6 +1,14 @@
-# bwa_kos
+# Flat Finder
 
-A new Flutter project.
+Flat App Finder with Provider State Management for and API Implementation
+
+Screen Shot 
+
+![thumbnail](https://user-images.githubusercontent.com/63090705/124343110-453b9280-dbf3-11eb-9391-41730c208b68.png)
+
+
+
+
 
 ## Getting Started
 
